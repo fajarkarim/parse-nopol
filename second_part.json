@@ -1,0 +1,54 @@
+[
+  {
+    "kode_kendaraan": "A",
+    "tipe_kendaraan": "sedan/pickup"
+  },
+  {
+    "kode_kendaraan": "B",
+    "tipe_kendaraan": "pickup kabin ganda"
+  },
+  {
+    "kode_kendaraan": "B,D,W,E,R",
+    "tipe_kendaraan": "sedan yang sudah dimutasi"
+  },
+  {
+    "kode_kendaraan": "U,Z",
+    "tipe_kendaraan": "pickup yang sudah dimutasi"
+  },
+  {
+    "kode_kendaraan": "F,K,O,Z,R,Y,I",
+    "tipe_kendaraan": "minibus, hatchback, dan city car"    
+  },
+  {
+    "kode_kendaraan": "V,P,M,G,Y,W,U",
+    "tipe_kendaraan": "minibus, hatchback, dan city car yang sudah dimutasi (contoh: B 1896 GUG)"
+  },
+  {
+    "kode_kendaraan": "*HX,*IX",
+    "tipe_kendaraan": "ambulance"
+  },
+  {
+    "kode_kendaraan": "J",
+    "tipe_kendaraan": "jeep dan SUV"
+  },
+  {
+    "kode_kendaraan": "L,C",
+    "tipe_kendaraan": "jeep dan SUV yang sudah dimutasi"
+  },
+  {
+    "kode_kendaraan": "C,D",
+    "tipe_kendaraan": "truk dan pickup box"
+  },
+  {
+    "kode_kendaraan": "T,*UA",
+    "tipe_kendaraan": "taksi"
+  },
+  {
+    "kode_kendaraan": "*TX/*UX",
+    "tipe_kendaraan": "angkutan kota"
+  },
+  {
+    "kode_kendaraan": "*QN",
+    "tipe_kendaraan": "Kendaraan Staf Pemerintah"
+  }
+]

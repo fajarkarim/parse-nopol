@@ -1,0 +1,25 @@
+{
+  "name": "parse-nopol",
+  "version": "1.0.0",
+  "description": "simple package for parse plate number in indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajarkarim/parse-nopol.git"
+  },
+  "keywords": [
+    "nomor",
+    "polisi",
+    "plate",
+    "number"
+  ],
+  "author": "Fajar Abdul Karim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fajarkarim/parse-nopol/issues"
+  },
+  "homepage": "https://github.com/fajarkarim/parse-nopol#readme"
+}

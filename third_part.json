@@ -1,0 +1,51 @@
+[
+  {
+    "kode_daerah_registrasi": "U",
+    "daerah_registrasi": "Jakarta Utara"
+  },
+  {  "kode_daerah_registrasi": "B",
+    "daerah_registrasi": "Jakarta Barat"
+  },
+  {  "kode_daerah_registrasi": "P",
+    "daerah_registrasi": "Jakarta Pusat"
+  },
+  {  "kode_daerah_registrasi": "S",
+    "daerah_registrasi": "Jakarta Selatan"
+  },
+  {  "kode_daerah_registrasi": "T",
+    "daerah_registrasi": "Jakarta Timur (Pasar Rebo, Kampung Rambutan, Cilangkap)"
+  },
+  {  "kode_daerah_registrasi": "Z",
+    "daerah_registrasi": "Kota Depok (Cinere, Limo, Sawangan)"
+  },
+  {  "kode_daerah_registrasi": "E",
+    "daerah_registrasi": "Kota Depok (Sukmajaya, Cimanggis, Beji, Cipayung)"
+  },
+  {  "kode_daerah_registrasi": "N",
+    "daerah_registrasi": "Kabupaten Tangerang (Cisauk, Kelapa Dua, Pagedangan, Legok)"
+  },
+  {  "kode_daerah_registrasi": "C",
+    "daerah_registrasi": "Kota Tangerang (Karawaci, Neglasari, Batuceper, Jatiuwung, Cibodas, Tangerang Kota, Bandara Soekarno Hatta)"
+  },
+  {  "kode_daerah_registrasi": "V",
+    "daerah_registrasi": "Kota Tangerang (Ciledug, Larangan, Pedurenan, Cipondoh)"
+  },
+  {  "kode_daerah_registrasi": "K",
+    "daerah_registrasi": "Kota Bekasi"
+  },
+  {  "kode_daerah_registrasi": "F",
+    "daerah_registrasi": "Kabupaten Bekasi"
+  },
+  {  "kode_daerah_registrasi": "W",
+    "daerah_registrasi": "Kota Tangerang Selatan"
+  },
+  {  "kode_daerah_registrasi": "G",
+    "daerah_registrasi": "Kabupaten Tangerang (Balaraja, Sukamulya, Cikupa, Tigaraksa, Cisoka, Kresek, Panongan) (dipindahkan ke plat A)"
+  },
+  {  "kode_daerah_registrasi": "X",
+    "daerah_registrasi": "Kendaraan sementara (digunakan sebagai TCKB)"
+  },
+  {  "kode_daerah_registrasi": "R",
+    "daerah_registrasi": "Kendaraan dinas (yang digunakan adalah RF saja dan selalu berplat hitam)"
+  }
+]
